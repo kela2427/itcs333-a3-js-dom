@@ -112,5 +112,5 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 
   filterAll.classList.add('active');
-  updateUI();
+  updateUI(); //updated
 });
